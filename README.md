@@ -54,6 +54,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fernandoaneto2/fernandoaneto2/output/snake.svg" alt="Snake animation" />
+<img src="![snake gif](https://github.com/fernandoaneto2/readme/blob/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
+
 
 ###
